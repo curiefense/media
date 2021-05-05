@@ -14,6 +14,12 @@
 * [Style 3](/media/zoom/curiefense-zoom-style-3.png)
 * [Style 4](/media/zoom/curiefense-zoom-style-4.png)
 
+## 👁 Icons
+
+* [API](/media/icons/API.svg)
+* [Open Source](/media/icons/open-source.svg)
+* [View All](/media/tree/main/media/icons)
+
 ## 🎨 Logos
 Curiefense logos are hosted in the [cncf/artwork](https://github.com/cncf/artwork/blob/master/examples/sandbox.md#curiefense-logos) repo.
 
