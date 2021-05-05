@@ -18,7 +18,7 @@
 
 * [API](/media/icons/API.svg)
 * [Open Source](/media/icons/open-source.svg)
-* [View All](/media/tree/main/media/icons)
+* [View All](https://github.com/curiefense/media/tree/main/media/icons)
 
 ## 🎨 Logos
 Curiefense logos are hosted in the [cncf/artwork](https://github.com/cncf/artwork/blob/master/examples/sandbox.md#curiefense-logos) repo.
