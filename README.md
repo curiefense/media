@@ -13,6 +13,7 @@
 * [Style 2](/media/zoom/curiefense-zoom-style-2.png)
 * [Style 3](/media/zoom/curiefense-zoom-style-3.png)
 * [Style 4](/media/zoom/curiefense-zoom-style-4.png)
+* [Style 5](/media/zoom/curiefense-zoom-style-5.png)
 
 ## 👁 Icons
 
